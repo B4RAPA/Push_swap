@@ -1,8 +1,6 @@
 # 42_push_swap
 Push Swap - Project at 42 school (42 Wolfsburg)
 
-![Bonus Completed](https://img.shields.io/badge/bonus-completed-brightgreen)
-
 <h1 align="center">
 	♻️ push_swap
 </h1>
@@ -26,8 +24,6 @@ Push Swap - Project at 42 school (42 Wolfsburg)
 > _One of my most favorite projects, push_swap is an algorithmic project where the goal is to sort a stack of integers with the smallest possible number of moves, using only a limited set of stack operations. The challenge is to optimize algorithms and data structures to achieve efficient sorting under strict constraints, deepening your understanding of algorithmic problem-solving and resource management._
 #### 🚀 Bonus
 - [x] Checker program implemented
-
-For more detailed information, look at the [**subject of this project**](https://github.com/jonona912/42_push_swap/blob/main/push_swap_subject.pdf).
 
 ## 🛠️ Usage
 
